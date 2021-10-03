@@ -1,0 +1,13 @@
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.csprojAssemblyReference.cache
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.AssemblyInfoInputs.cache
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.AssemblyInfo.cs
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.csproj.CoreCompileInputs.cache
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.exe
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.deps.json
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.runtimeconfig.json
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.runtimeconfig.dev.json
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.dll
+C:\Fel.Series\bin\Debug\netcoreapp3.1\Fel.Series.pdb
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.dll
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.pdb
+C:\Fel.Series\obj\Debug\netcoreapp3.1\Fel.Series.genruntimeconfig.cache
